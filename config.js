@@ -19,7 +19,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: './images/slides/slide1.png',
+            image: './images/slides/Slide1.PNG',
             description: '',
             location: {
                 center: [80, 20],
@@ -49,7 +49,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './images/slides/slide2.png',
+            image: './images/slides/Slide2.PNG',
             description: '',
             location: {
                 center: [80, 20],
@@ -79,7 +79,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: './images/slides/slide3.png',
+            image: './images/slides/Slide3.PNG',
             description: '',
             location: {
                 center: [83.985604, 28.239670],
@@ -104,7 +104,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './images/slides/slide4.png',
+            image: './images/slides/Slide4.PNG',
             description: '',
             location: {
                 center: [85.946066, 27.956005],
@@ -123,7 +123,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: '',
-            image: './images/slides/slide5.png',
+            image: './images/slides/Slide5.PNG',
             description: '',
             location: {
                 center: [85.946066, 27.956005],
@@ -142,7 +142,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './images/slides/slide6.png',
+            image: './images/slides/Slide6.PNG',
             description: '',
             location: {
                 center: [83.985604, 28.239670],
@@ -172,7 +172,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: './images/slides/slide7.png',
+            image: './images/slides/Slide7.PNG',
             description: '',
             location: {
                 center: [85.435110, 27.673236],
@@ -197,7 +197,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './images/slides/slide8.png',
+            image: './images/slides/Slide8.PNG',
             description: '',
             location: {
                 center: [85.435110, 27.673236],
@@ -216,7 +216,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: '',
-            image: './images/slides/slide9.png',
+            image: './images/slides/Slide9.PNG',
             description: '',
             location: {
                 center: [83.985604, 28.239670],
@@ -235,7 +235,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './images/slides/slide10.png',
+            image: './images/slides/Slide10.PNG',
             description: '',
             location: {
                 center: [84.212689, 28.223980],
@@ -265,7 +265,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: './images/slides/slide11.png',
+            image: './images/slides/Slide11.PNG',
             description: '',
             location: {
                 center: [85.946066, 27.956005],
@@ -290,7 +290,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './images/slides/slide12.png',
+            image: './images/slides/Slide12.PNG',
             description: '',
             location: {
                 center: [83.985604, 28.239670],
@@ -309,7 +309,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: '',
-            image: './images/slides/slide13.png',
+            image: './images/slides/Slide13.PNG',
             description: '',
             location: {
                 center: [-58.54195, -34.71600],
@@ -328,7 +328,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './images/slides/slide14.png',
+            image: './images/slides/Slide14.PNG',
             description: '',
             location: {
                 center: [84.212689, 28.223980],
@@ -358,7 +358,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: './images/slides/slide15.png',
+            image: './images/slides/Slide15.PNG',
             description: '',
             location: {
                 center: [83.985604, 28.239670],
@@ -383,7 +383,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './images/slides/slide16.png',
+            image: './images/slides/Slide16.PNG',
             description: '',
             location: {
                 center: [6.15116, 46.20595],
@@ -402,7 +402,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: '',
-            image: './images/slides/slide17.png',
+            image: './images/slides/Slide17.PNG',
             description: '',
             location: {
                 center: [-58.54195, -34.71600],
@@ -421,7 +421,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './images/slides/slide18.png',
+            image: './images/slides/Slide18.PNG',
             description: '',
             location: {
                 center: [6.15116, 46.20595],
