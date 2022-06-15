@@ -1,7 +1,7 @@
 var config = {
-    style: 'mapbox://styles/mapbox/outdoors-v11',
+    style: 'mapbox://styles/mapbox/satellite-streets-v11',
     accessToken: 'pk.eyJ1IjoiZ3JvdmR1Y2siLCJhIjoiYXVYb29zbyJ9.TO2NcqGJDyWDCSvOfBBUIQ',
-    showMarkers: true,
+    showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
     //Read more about available projections here
@@ -107,8 +107,8 @@ var config = {
             image: './images/slides/Slide4.PNG',
             description: '',
             location: {
-                center: [85.946066, 27.956005],
-                zoom: 12.52,
+                center: [85.963959, 27.972871],
+                soom: 10,
                 pitch: 8.01,
                 bearing: 0.00
             },
@@ -120,14 +120,14 @@ var config = {
         },
         {
             id: 'slide-5',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: '',
             image: './images/slides/Slide5.PNG',
             description: '',
             location: {
-                center: [85.946066, 27.956005],
-                zoom: 4,
+                center: [85.963959, 27.972871],
+                zoom: 15,
                 pitch: 0,
                 bearing: 0
             },
@@ -176,7 +176,7 @@ var config = {
             description: '',
             location: {
                 center: [85.435110, 27.673236],
-                zoom: 8.5,
+                soom: 10,
                 pitch: 60,
                 bearing: -43.2,
                 // flyTo additional controls-
@@ -201,7 +201,7 @@ var config = {
             description: '',
             location: {
                 center: [85.435110, 27.673236],
-                zoom: 12.52,
+                zoom: 21,
                 pitch: 8.01,
                 bearing: 0.00
             },
@@ -238,8 +238,8 @@ var config = {
             image: './images/slides/Slide10.PNG',
             description: '',
             location: {
-                center: [84.212689, 28.223980],
-                zoom: 6.0,
+                center: [85.305799, 27.703873],
+                soom: 10,
                 pitch: 60,
                 bearing: 0
             },
@@ -268,8 +268,8 @@ var config = {
             image: './images/slides/Slide11.PNG',
             description: '',
             location: {
-                center: [85.946066, 27.956005],
-                zoom: 8.5,
+                center: [85.305799, 27.703873],
+                zoom: 21,
                 pitch: 60,
                 bearing: -43.2,
                 // flyTo additional controls-
@@ -312,8 +312,8 @@ var config = {
             image: './images/slides/Slide13.PNG',
             description: '',
             location: {
-                center: [-58.54195, -34.71600],
-                zoom: 4,
+                center: [86.731258, 27.687385],
+                soom: 10,
                 pitch: 0,
                 bearing: 0
             },
@@ -328,12 +328,12 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './images/slides/Slide14.PNG',
+            image: './images/slides/Slide19.png',
             description: '',
             location: {
-                center: [84.212689, 28.223980],
-                zoom: 6.0,
-                pitch: 60,
+                center: [86.924932, 27.985549],
+                zoom: 12,
+                pitch: 90,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -386,8 +386,8 @@ var config = {
             image: './images/slides/Slide16.PNG',
             description: '',
             location: {
-                center: [6.15116, 46.20595],
-                zoom: 12.52,
+                center: [83.275762, 27.469268],
+                soom: 10,
                 pitch: 8.01,
                 bearing: 0.00
             },
@@ -405,8 +405,8 @@ var config = {
             image: './images/slides/Slide17.PNG',
             description: '',
             location: {
-                center: [-58.54195, -34.71600],
-                zoom: 4,
+                center: [83.275240, 27.468926],
+                zoom: 15,
                 pitch: 0,
                 bearing: 0
             },
@@ -424,8 +424,8 @@ var config = {
             image: './images/slides/Slide18.PNG',
             description: '',
             location: {
-                center: [6.15116, 46.20595],
-                zoom: 12.52,
+                center: [83.985604, 28.239670],
+                zoom: 2.5,
                 pitch: 8.01,
                 bearing: 0.00
             },
