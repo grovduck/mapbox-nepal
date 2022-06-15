@@ -16,7 +16,7 @@ var config = {
     chapters: [
         {
             id: 'slide-1',
-            alignment: 'left',
+            alignment: 'fully',
             hidden: false,
             title: '',
             image: './images/slides/Slide1.PNG',
@@ -52,8 +52,8 @@ var config = {
             image: './images/slides/Slide2.PNG',
             description: '',
             location: {
-                center: [80, 20],
-                zoom: 2,
+                center: [83.985604, 28.239670],
+                zoom: 4,
                 pitch: 0,
                 bearing: 0
             },
@@ -83,9 +83,9 @@ var config = {
             description: '',
             location: {
                 center: [83.985604, 28.239670],
-                zoom: 6.5,
-                pitch: 60,
-                bearing: -43.2,
+                zoom: 7,
+                pitch: 55,
+                bearing: 340,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -108,7 +108,7 @@ var config = {
             description: '',
             location: {
                 center: [85.963959, 27.972871],
-                soom: 10,
+                zoom: 10,
                 pitch: 8.01,
                 bearing: 0.00
             },
@@ -146,9 +146,9 @@ var config = {
             description: '',
             location: {
                 center: [83.985604, 28.239670],
-                zoom: 6.5,
-                pitch: 60,
-                bearing: 0
+                zoom: 7,
+                pitch: 55,
+                bearing: 340
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -176,7 +176,7 @@ var config = {
             description: '',
             location: {
                 center: [85.435110, 27.673236],
-                soom: 10,
+                zoom: 10,
                 pitch: 60,
                 bearing: -43.2,
                 // flyTo additional controls-
@@ -200,9 +200,9 @@ var config = {
             image: './images/slides/Slide8.PNG',
             description: '',
             location: {
-                center: [85.435110, 27.673236],
-                zoom: 21,
-                pitch: 8.01,
+                center: [85.428108, 27.672064],
+                zoom: 17,
+                pitch: 0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
@@ -213,16 +213,16 @@ var config = {
         },
         {
             id: 'slide-9',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: '',
             image: './images/slides/Slide9.PNG',
             description: '',
             location: {
                 center: [83.985604, 28.239670],
-                zoom: 6.5,
-                pitch: 0,
-                bearing: 0
+                zoom: 7,
+                pitch: 55,
+                bearing: 340
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -239,7 +239,7 @@ var config = {
             description: '',
             location: {
                 center: [85.305799, 27.703873],
-                soom: 10,
+                zoom: 10,
                 pitch: 60,
                 bearing: 0
             },
@@ -269,9 +269,9 @@ var config = {
             description: '',
             location: {
                 center: [85.305799, 27.703873],
-                zoom: 21,
-                pitch: 60,
-                bearing: -43.2,
+                zoom: 14,
+                pitch: 80,
+                bearing: 15,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -294,9 +294,9 @@ var config = {
             description: '',
             location: {
                 center: [83.985604, 28.239670],
-                zoom: 6.5,
-                pitch: 60,
-                bearing: -43.2,
+                zoom: 7,
+                pitch: 55,
+                bearing: 340,
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -306,14 +306,14 @@ var config = {
         },
         {
             id: 'slide-13',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: '',
             image: './images/slides/Slide13.PNG',
             description: '',
             location: {
                 center: [86.731258, 27.687385],
-                soom: 10,
+                zoom: 10,
                 pitch: 0,
                 bearing: 0
             },
@@ -328,10 +328,10 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './images/slides/Slide19.png',
+            image: './images/slides/Slide19.PNG',
             description: '',
             location: {
-                center: [86.924932, 27.985549],
+                center: [86.923509, 27.930895],
                 zoom: 12,
                 pitch: 90,
                 bearing: 0
@@ -362,9 +362,9 @@ var config = {
             description: '',
             location: {
                 center: [83.985604, 28.239670],
-                zoom: 6.5,
-                pitch: 60,
-                bearing: -43.2,
+                zoom: 7,
+                pitch: 55,
+                bearing: 340,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -387,7 +387,7 @@ var config = {
             description: '',
             location: {
                 center: [83.275762, 27.469268],
-                soom: 10,
+                zoom: 10,
                 pitch: 8.01,
                 bearing: 0.00
             },
@@ -399,7 +399,7 @@ var config = {
         },
         {
             id: 'slide-17',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: '',
             image: './images/slides/Slide17.PNG',
@@ -418,7 +418,7 @@ var config = {
         },
         {
             id: 'slide-18',
-            alignment: 'right',
+            alignment: 'fully',
             hidden: false,
             title: '',
             image: './images/slides/Slide18.PNG',
